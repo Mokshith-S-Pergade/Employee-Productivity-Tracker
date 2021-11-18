@@ -30,13 +30,13 @@ OTHER .py files which are not called using subprocess (called using this method 
 
 _Athrv-ed_Pro_Tracker.py  
 	--> aboutapp.py			------------> About the App
-	--> reportissue.py		------------> Report issue (not automated)
+	--> reportissue.py		------------> Report issue 
 
 Signup.py	
 	--> terms.py			------------> Terms and conditions	
 
 login.py
-	--> reset.py			------------>Rest password(not automated)
+	--> reset.py			------------>Rest password
 
 final_operation_page.py
 	--> neweditnewqt2.py        	-----------> Add or change location of apps with LOGO
